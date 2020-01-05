@@ -1,0 +1,39 @@
+{
+    // See https://go.microsoft.com/fwlink/?LinkId=827846 to learn about workspace recommendations.
+    // Extension identifier format: ${publisher}.${name}. Example: vscode.csharp
+    // List of extensions which should be recommended for users of this workspace.
+    "recommendations": [
+        "ajshort.latex-preview",
+        "BeardedBear.beardedtheme",
+        "bungcip.better-toml",
+        "CoenraadS.bracket-pair-colorizer-2",
+        "DavidAnson.vscode-markdownlint",
+        "eamodio.gitlens",
+        "gerane.Theme-Blackboard",
+        "GitHub.vscode-pull-request-github",
+        "James-Yu.latex-workshop",
+        "JScearcy.rust-doc-viewer",
+        "kalitaalexey.vscode-rust",
+        "kamikillerto.vscode-linthtml",
+        "LeoJhonSong.latex-extension-pack",
+        "Levertion.mcjson",
+        "medo64.render-crlf",
+        "miqh.vscode-language-rust",
+        "ms-mssql.mssql",
+        "ms-vscode-remote.remote-wsl",
+        "nickfode.latex-formatter",
+        "oijaz.unicode-latex",
+        "PKief.material-icon-theme",
+        "redhat.java",
+        "redhat.vscode-yaml",
+        "rust-lang.rust",
+        "serayuzgur.crates",
+        "SPGoding.datapack-json",
+        "streetsidesoftware.code-spell-checker",
+        "Swellaby.rust-pack",
+        "torn4dom4n.latex-support",
+        "ZakCodes.rust-snippets"
+    ],
+    // List of extensions recommended by VS Code that should not be recommended for users of this workspace.
+    "unwantedRecommendations": []
+}
