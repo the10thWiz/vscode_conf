@@ -1,0 +1,33 @@
+{
+    "workbench.startupEditor": "newUntitledFile",
+    "editor.minimap.enabled": false,
+    "terminal.integrated.shell.windows": "C:\\windows\\System32\\wsl.exe",
+    "workbench.sideBar.location": "right",
+    "explorer.confirmDelete": false,
+    "git.autofetch": true,
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    },
+    "rust.mode": "rls",
+    "git.confirmSync": false,
+    "files.insertFinalNewline": true,
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": false,
+    "html.format.indentInnerHtml": true,
+    "html.format.endWithNewline": true,
+    "linthtml.configFile": ".linthtml.json",
+    "html.format.wrapAttributes": "preserve-aligned",
+    "html.format.wrapLineLength": 0,
+    "workbench.colorTheme": "Blackboard",
+    "bracket-pair-colorizer-2.excludedLanguages": [],
+    "bracket-pair-colorizer-2.colors": [
+        "Gold",
+        "Orchid",
+        "LightSkyBlue"
+    ],
+    "bracket-pair-colorizer-2.showBracketsInGutter": true,
+    "workbench.iconTheme": "material-icon-theme"
+}
